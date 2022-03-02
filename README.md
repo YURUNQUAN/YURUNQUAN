@@ -1,5 +1,5 @@
 I am Runquan YU!\
-For short mane is Michael.\
+For short name is Michael.\
 \
 Affiliation: Undergrauduate Student in University of Macau.\
 Center for Cognitive and Brain Sciences, Institute of Collaborative Innovation (ICI-CCBS), University of Macau\
@@ -12,6 +12,7 @@ Research Interest: Social Anxiety & Depression; Personality; Social Interaction\
 \
 Currently, (1) He is working on social navigation domains, and fMRI scanning, and (2) Dealing with EEG data.\
 \
-🌱 My CV is here: https://docs.google.com/document/d/1V59wvkhfEvm795IwkrEwkpjRPXhBKY7aDIj8-l11D4w/edit?usp=sharing 
+🌱 My CV is here: https://docs.google.com/document/d/1V59wvkhfEvm795IwkrEwkpjRPXhBKY7aDIj8-l11D4w/edit?usp=sharing\
+\
 📫 Email: SC02303@umac.mo & yurunquan020428@163.com
 
